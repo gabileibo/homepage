@@ -6,6 +6,8 @@
       src="/images/profile.png"
       alt="Profile"
       class="object-contain w-full"
+      width="210"
+      height="210"
     />
   </picture>
   <h1 class="self-start mt-12 text-[1.8rem] font-semibold tracking-tighter text-white max-md:mt-10">
