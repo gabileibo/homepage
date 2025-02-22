@@ -1,4 +1,16 @@
-# Gabi Homepage
+# Homepage
+
+A simple personal [site](https://www.gabi.page) inspired by Notion's design :) 
+
+
+## SEO
+
+I used [SvelteKit](https://svelte.dev/docs/kit) and pages are pre-rendered to static HTML with SEO best practices. 
+
+
+<img src="./benchmarks/seo.png" alt="SEO Score" width="350px" />
+
+Deployed on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 
 ## Developing
