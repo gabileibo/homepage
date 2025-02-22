@@ -52,9 +52,9 @@
 </script>
 
 <main
-  class="flex overflow-hidden flex-col justify-center items-center px-20 py-28 text-xs font-medium tracking-tight bg-zinc-900 max-md:px-5 max-md:pt-24"
+  class="flex overflow-hidden flex-col justify-center items-center px-24 py-[8.4rem] text-[0.9rem] font-medium tracking-tight bg-zinc-900 max-md:px-6 max-md:pt-[7.2rem]"
 >
-  <div class="flex flex-col max-w-full w-[371px]">
+  <div class="flex flex-col max-w-full w-[445px]">
     <ProfileHeader />
 
     <section>

@@ -21,7 +21,7 @@
     <img 
       loading="lazy" 
       src={icon} 
-      class="w-[19px] aspect-square object-contain self-start rounded" 
+      class="w-[23px] aspect-square object-contain self-start rounded" 
       alt="" 
     />
     <div class={textClass}>
