@@ -1,10 +1,13 @@
 <header class="flex flex-col">
-  <img
-    loading="lazy"
-    src="/images/profile.png"
-    alt="Profile"
-    class="object-contain self-center max-w-full aspect-square w-[210px]"
-  />
+  <picture class="self-center max-w-full aspect-square w-[210px]">
+    <source srcset="/images/profile.webp" type="image/webp" />
+    <img
+      loading="eager"
+      src="/images/profile.png"
+      alt="Profile"
+      class="object-contain w-full"
+    />
+  </picture>
   <h1 class="self-start mt-12 text-[1.8rem] font-semibold tracking-tighter text-white max-md:mt-10">
     Hi, my name is <span style="color: rgba(209,88,150,1);">Gabi</span>.
   </h1>

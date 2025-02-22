@@ -9,8 +9,8 @@
 <a
   href={url}
   target="_blank"
-  class="flex align-center gap-3.5 px-3 py-4 mt-2 font-semibold text-[rgba(160,72,120,1)] underline whitespace-nowrap rounded"
-  style={`background-color: rgba(43, 36, 49, 1);`}
+  class="flex align-center gap-3.5 px-3 py-4 mt-2 font-semibold text-[rgb(255,113,179)] underline whitespace-nowrap rounded hover:bg-gray-800"
+  style={`background-color: rgba(43, 36, 49, 0.9);`}
 >
   <img
     loading="lazy"
