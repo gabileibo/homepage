@@ -14,6 +14,9 @@
     >,
     <span style="font-weight: 600; font-style: italic; color: rgba(209,88,150,1);"
       >DevOps</span
+    >,
+     <span style="font-weight: 600; font-style: italic; color: rgba(209,88,150,1);"
+      >AI</span
     >
     and
     <span style="font-weight: 600; font-style: italic; color: rgba(209,88,150,1);"
